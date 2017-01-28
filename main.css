@@ -14,3 +14,7 @@ img {
 .stream_status {
     display: inline;
 }
+
+div.row {
+    margin-bottom: 5vh;
+}
