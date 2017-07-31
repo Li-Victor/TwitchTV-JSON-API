@@ -1,5 +1,5 @@
 body {
-    background-color: #34A853;
+    background-color: #A1887F;
 }
 
 .well {
@@ -17,4 +17,8 @@ img {
 
 div.row {
     margin-bottom: 5vh;
+}
+
+h1.text-center {
+    font-size: 9vh;
 }
